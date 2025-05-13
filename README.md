@@ -1,9 +1,3 @@
-Thanks for uploading the project. Based on the contents of the `Simple_Project.zip` file, I'll generate a `README.md` file suitable for your Django web application.
-
----
-
-### ✅ README.md
-
 ```markdown
 # Simple_Project
 
